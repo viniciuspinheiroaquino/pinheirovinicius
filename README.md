@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Vinicius Pinheiro
-- 🎓 Sou formado em Analise e Desenvolvimento de Sistemas
-- 💻 Hoje trabalho como analista desenvolvedor back-end
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas
+- 💻 Hoje trabalho como analista desenvolvedor full-stack
 - 📚 Estudando C# e Flutter
 - 👀 Conheça minhas redes https://beacons.page/viniciuspinheiro
 
