@@ -2,7 +2,7 @@
 - 🎓 Sou formado em Análise e Desenvolvimento de Sistemas
 - 💻 Hoje trabalho como analista desenvolvedor full-stack
 - 📚 Estudando C# e Flutter
-- 👀 Conheça minhas redes https://beacons.page/viniciuspinheiro
+- 👀 Conheça minhas redes https://linktr.ee/viniciuspinheiroaquino
 
   
   ##
